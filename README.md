@@ -50,7 +50,7 @@ B-->Upstream2-->Internet
 ## Methodology
 
 First, we run traceroutes from an observer in the target AS  passing through the
-upstream to the `.1` address of both prefixes. The `Reference IP` acts as a
+upstream to the `.1`/`::1` address of both prefixes. The `Reference IP` acts as a
 control for the general connectivity.
 
 ```mermaid
