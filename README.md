@@ -6,7 +6,7 @@ Contact: malte@iij.ad.jp
 
 tl;dr: This is harmless BGP research.
 
-We are announcing the following prefixes from AS10233:
+We are announcing the following prefixes from AS7619 (also AS58367 and AS10233 in the past):
 
 - 147.28.8.0/24
 - 147.28.9.0/24
@@ -17,7 +17,7 @@ Prefixes 147.28.9.0/24 and 2001:df7:5381::/48 are periodically poisoned (for a
 duration of 30 minutes) as described below. As part of this poisoning we may
 include your AS number in the AS path of the announcement, which might cause
 some tools that analyze BGP data to interpret your AS as a neighbor (up- or
-downstream) of AS10233. This is a false alarm that can be safely ignored. This
+downstream) of our experimental AS. This is a false alarm that can be safely ignored. This
 measurement does not affect your AS or any of your announced prefixes in any way.
 
 ## Purpose
