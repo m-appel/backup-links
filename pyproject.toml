@@ -1,0 +1,15 @@
+[project]
+name = "backup-link-public"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "pandas>=3.0.6",
+    "tabulate>=0.10.0",
+]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.format]
+quote-style = "single"
