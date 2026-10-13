@@ -5,6 +5,7 @@ requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.4.0",
     "pandas>=3.0.6",
+    "pyarrow>=25.0.1",
     "tabulate>=0.10.0",
 ]
 

@@ -1,0 +1,946 @@
+downstream,ix_name
+59,MadIX
+209,Equinix Sydney
+209,Equinix Hong Kong
+209,BigApe
+719,FICIX 2 (Helsinki)
+719,TREX
+719,FICIX Espoo
+719,FICIX
+719,FICIX Oulu
+719,FICIX 3 (Oulu)
+719,FICIX 1 (Espoo)
+719,DE-CIX Frankfurt
+955,Equinix Hong Kong
+955,KCIX
+964,SpokaneIX
+1024,SpokaneIX
+1759,FICIX 1 (Espoo)
+1759,TREX
+1759,FICIX 2 (Helsinki)
+1759,FICIX 3 (Oulu)
+1759,FICIX
+1759,DE-CIX Frankfurt
+1759,FICIX Espoo
+1759,FICIX Oulu
+2012,SFO-IX
+2470,REUNIX
+2510,Equinix Tokyo
+2510,DIX-IE
+2510,NSPIXP3
+2510,NSPIXP6
+2513,DIX-IE
+2606,NIXVAL-ix
+2647,Equinix Atlanta
+2647,TorIX
+2647,Equinix IBX San Jose
+2647,Equinix San Jose
+2647,Equinix Dallas
+2647,DIX
+2647,Equinix Miami
+2647,Equinix Ashburn
+2647,Equinix Miami (formerly NOTA)
+2647,Equinix Chicago
+2647,Equinix Palo Alto
+2647,Equinix IBX Secaucus
+2863,Netnod Stockholm GREEN -- MTU1500
+2863,Netnod Stockholm BLUE -- MTU1500
+2863,STHIX Stockholm
+2915,BBIX Tokyo
+2915,NSPIXP6
+2915,DIX-IE
+2915,BBIX Singapore
+2915,BBIX Osaka
+3215,Equinix Paris
+3215,REUNIX
+3215,Guyanix
+3249,MSK-IX Moscow
+3249,MSK-IX Saint-Petersburg
+3249,MSK-IX St. Petersburg
+3254,UA-IX
+3265,DE-CIX Frankfurt
+3265,NL-ix
+3265,Rotterdam Internet eXchange
+3269,NaMeX
+3291,CIXP
+3352,ESpanix Madrid Upper LAN
+3352,CATNIX
+3352,ESpanix Madrid Lower LAN
+3359,YEGIX
+3384,MASS-IX
+3582,Oregon Internet Exchange (OIX)
+3836,NSPIXP6
+3836,Network Service Provider IXP-6
+4589,Any2West
+4589,SFINX
+4589,DE-CIX Hamburg
+4589,BNIX
+4589,DE-CIX Frankfurt
+4589,Equinix Zurich
+4690,Equinix Palo Alto
+4713,JPNAP Osaka
+4713,DIX-IE
+4713,NSPIXP3
+4713,JPNAP Tokyo
+4721,JPIX Tokyo
+4721,NSPIXP6
+4721,DIX-IE
+4782,TWIX
+4818,MyIX
+5089,LINX Manchester
+5089,SFINX
+5089,LINX LON1
+5384,SH-IX
+5541,Balcan-IX
+5588,Balcan-IX
+5726,Any2West
+6366,NWAX
+6799,GR-IX::Athens
+6799,GR-IX::Thessaloniki
+6799,DE-CIX Frankfurt
+6843,ANIX
+6858,DATAIX
+6858,Global-IX
+7034,FCIX
+7034,MICE
+7247,FCIX
+7247,SFMIX
+7385,SIX Seattle
+7385,NWAX
+7385,SIX
+7385,Digital Realty Phoenix
+7385,Equinix Paris
+7385,Equinix Chicago
+7385,Equinix Los Angeles
+7385,Any2West
+7472,SOX
+7521,Community-IX Vienna
+7521,FogIXP
+7521,DE-CIX Frankfurt
+7535,TWIX
+7568,CSL Thai-IX Singapore
+7568,CSL Thai-IX Malaysia
+7568,THAI-IX
+7568,Equinix Singapore
+7615,btIX
+7654,TRUE-IX
+7654,THAILAND IX (TH-IX)
+7850,Any2West
+7850,Equinix Ashburn
+7850,Equinix IBX San Jose
+7850,Equinix London
+7850,LINX LON1
+7850,Equinix San Jose
+7850,LINX LON2
+8111,HFXIX
+8190,DE-CIX Frankfurt
+8190,SFINX
+8190,LONAP
+8211,NL-IX
+8226,ArmIX
+8255,SFINX
+8312,Groningen-IX
+8331,W-IX
+8331,DATAIX
+8331,MSK-IX Moscow
+8419,XchangePoint London IPP
+8565,SFINX
+8565,France-IX Paris
+8565,Equinix Paris
+8565,DE-CIX Frankfurt
+8613,Equinix Paris
+8762,Extreme IX Delhi
+8928,Equinix Zurich
+8928,BNIX
+8928,MegaIX Munich
+8928,NYIIX New York
+8928,SFINX
+9268,WA-IX
+9268,Any2West
+9268,NSW-IX
+9268,MegaIX Brisbane
+9268,Equinix Sydney
+9268,MegaIX Sydney
+9268,MegaIX Perth
+9268,Equinix Singapore
+9341,IIX-Jakarta
+9431,APE
+9443,NSW-IX
+9443,PIPE Networks Sydney
+9443,PIPE Networks Brisbane
+9443,Equinix Tokyo
+9443,WA-IX
+9891,CSL Thai-IX Bangkok
+9917,TPIX-TW
+9999,JPNAP Tokyo
+9999,DE-CIX Frankfurt
+9999,DIX-IE
+9999,BBIX Tokyo
+9999,JPIX TOKYO
+9999,JPIX Tokyo
+10021,JPIX Tokyo
+10021,JPNAP Osaka
+10080,SA-IX
+10083,EdgeIX - Perth
+10083,IX Australia WA
+10083,WA-IX
+10083,NSW-IX
+10223,PIPE Networks Melbourne
+10223,PIPE Networks Sydney
+10223,PIPE Networks Brisbane
+10255,MASS-IX
+10417,PTT Belo Horizonte
+10737,Global Peer Exchange
+10737,DRF IX
+10881,IX.br (PTT.br) Curitiba
+10881,IX.br (PTT.br) Maringá
+10881,PTT Curitiba
+11081,AMS-IX Caribbean
+11139,BVIX
+11139,SKNIX
+11139,Grenada Internet Exchange
+11139,GREX
+11142,FD-IX - Indianapolis
+11142,ChIX
+11142,Equinix Chicago
+11142,MidWest-IX - Indy
+11187,DE-CIX Richmond
+11187,DE-CIX New York
+11242,IX.br (PTT.br) Florianópolis
+11970,PaducahIX
+12140,IX.br (PTT.br) Curitiba
+12140,PTT Curitiba
+12548,UA-IX
+12690,DATAIX
+12772,SFO-IX
+12849,IIX Israel
+12939,Netnod Stockholm GREEN -- MTU1500
+12939,STHIX Stockholm
+12939,SOLIX MTU1500
+13124,B-IX Balkans
+13124,DE-CIX Frankfurt
+13243,SIX Stavanger
+13243,FIXO
+13645,Equinix Los Angeles
+13851,TorIX
+15290,BigApe
+15290,PIX Toronto
+15290,Equinix New York IBX
+15474,RIX
+15474,DE-CIX Frankfurt
+15765,NIX1
+15765,NIX
+15879,Groningen-IX
+15879,NL-IX
+16058,GABIX
+16300,RED-IX
+16300,Global-IX
+16300,DATAIX
+16300,KRS-IX
+16708,DE-CIX Richmond
+16734,IX.br (PTT.br) Rio de Janeiro
+16734,IX.br (PTT.br) Porto Alegre
+17428,CNIXP
+17428,CNIX
+17480,CAN'L IX
+17689,JPIX TOKYO
+17689,JPIX Tokyo
+17716,TPIX-TW
+17762,NIXI Mumbai
+17762,Extreme IX Mumbai
+17882,MIX MNDC
+17918,Equinix Melbourne
+18024,btIX
+18108,MegaIX Sydney
+18118,CHN-IX Shanghai
+18149,DIX-IE
+18200,Equinix Sydney
+18200,MegaIX Sydney
+18245,CNIX
+18245,CHN-IX
+18245,CHN-IX Beijing
+18552,Any2West
+19092,Any2West
+19114,NAP.EC - UIO
+19114,NAP.EC-UIO
+19114,NAP.EC - GYE
+19114,NAP.EC-GYE
+19200,IX.br (PTT.br) Porto Alegre
+19850,TorIX
+20679,London Internet Exchange
+20679,LINX LON1
+20738,LONAP
+20807,Global-IX
+20807,PIRIX
+20910,SMILE-IXP
+20910,PITER-IX St. Petersburg
+20910,DE-CIX Frankfurt
+21283,SIX SI
+21283,VIX
+21293,NIX2
+21293,NIX
+21353,DATAIX
+21564,HFXIX
+21681,DE-CIX Richmond
+21681,DE-CIX New York
+22147,MASS-IX
+22415,TahoeIX
+22425,AMS-IX Chicago
+22561,Digital Realty Atlanta
+22561,Digital Realty | Telx Atlanta
+22566,MEX-IX McAllen
+22691,DE-CIX New York
+22691,NYIIX New York
+22829,NYIIX New York
+22919,NWAX
+23307,HFXIX
+23619,NSPIXP3
+23641,Echigo-IX
+23641,BBIX Tokyo
+23693,OpenIXP / NiCE
+23693,CDIX
+23693,JKT-IX
+23693,DCI Indonesia DCI-IX
+23693,IIX-Jakarta
+23794,BBIX Tokyo
+23875,HKIX
+23905,WIX-NZ
+23907,WA-IX
+23955,btIX
+24016,MVIXP
+24016,Equinix Singapore
+24111,WIX-NZ
+24111,APE
+24289,BBIX Tokyo
+24289,BBIX Osaka
+24290,BBIX Tokyo
+24290,JPNAP Tokyo
+24299,THAILAND IX (TH-IX)
+24303,WA-IX
+24303,IX Australia WA
+25019,Jeddah IX
+25019,SAIX Saudi Arabia Riyadh
+25019,SAIX Saudi Arabia
+25019,Riyadh IX
+25462,Netnod Stockholm GREEN -- MTU1500
+25462,Finnish Communication and Internet Exchange Helsinki
+25885,Any2West
+25885,NYIIX New York
+25885,Equinix Ashburn
+25885,DE-CIX New York
+25885,Equinix Chicago
+25885,Digital Realty New York
+25885,Equinix-NY(former Paix)
+26527,MASS-IX
+26695,SpokaneIX
+26935,NWAX
+27027,KCIX
+27382,MASS-IX
+27665,TTIX2
+27665,TTIX
+27694,AMS-IX Caribbean
+27694,Caribbean Internet Exchange
+27734,OCIX
+27745,FL-IX
+27745,Caribbean Internet Exchange
+27745,AMS-IX Caribbean
+27806,Guyanix
+27895,IXpy
+27926,CABASE-NQN
+28193,IX.br (PTT.br) Londrina
+28193,PTT Londrina
+28573,IX.br (PTT.br) Cuiabá
+28573,IX.br (PTT.br) Lajeado
+28573,IX.br (PTT.br) Fortaleza
+28573,IX.br (PTT.br) Campina Grande
+28573,IX.br (PTT.br) São José do Rio Preto
+28573,IX.br (PTT.br) Caxias do Sul
+28573,IX.br (PTT.br) Natal
+28573,IX.br (PTT.br) Maringá
+28573,IX.br (PTT.br) Brasília
+28573,IX.br (PTT.br) São Paulo
+28573,IX.br (PTT.br) Belém
+28573,IX.br (PTT.br) Belo Horizonte
+28573,IX.br (PTT.br) Vitória
+28573,IX.br (PTT.br) Rio de Janeiro
+28573,IX.br (PTT.br) Recife
+28573,IX.br (PTT.br) Florianópolis
+28573,IX.br (PTT.br) Londrina
+28573,IX.br (PTT.br) São José dos Campos
+28573,IX.br (PTT.br) Porto Alegre
+28573,IX.br (PTT.br) Manaus
+28573,IX.br (PTT.br) Campinas
+28573,IX.br (PTT.br) Goiânia
+28573,PTT Lajeado
+28573,PTT Campinas
+28573,PTT Belo Horizonte
+28573,PTT Campina Grande
+28573,PTT Caxias do Sul
+28573,PTT Natal
+28573,PTT Manaus
+28573,PTT Recife
+28573,PTT Londrina
+29432,TREX
+29432,DE-CIX Frankfurt
+29485,CIX
+30212,Any2West
+30212,JPIX Tokyo
+30261,SIX Seattle
+30619,MOZIX
+30803,LONAP
+30914,DE-CIX Frankfurt
+30914,London Internet Exchange
+31036,SFO-IX
+31273,Equinix London
+31273,Equinix Manchester
+31333,Nürnberger Internet Exchange
+31857,SpokaneIX
+31857,SIX
+31857,SIX Seattle
+33915,AMS-IX
+34305,BNIX
+34305,NDIX
+34305,BigApe
+34387,TREX
+34610,SOLIX MTU1500
+34610,Netnod Stockholm GREEN -- MTU1500
+34610,Norrnod
+34610,Netnod Lulea -- MTU9K
+34610,STHIX - Stockholm
+34610,Netnod Gothenburg -- MTU1500
+34610,Netnod Sundsvall -- MTU1500
+34610,Netnod Stockholm BLUE -- MTU1500
+34610,IXOR
+34610,STHIX Stockholm
+34610,Netnod Gothenburg MTU1500
+34610,Netnod Sundsvall MTU1500
+34948,SFINX
+35374,Global-IX
+35549,CIX
+36089,Any2West
+36089,Equinix Tokyo
+36946,Extreme IX Delhi
+36946,CIVIX
+37057,NAPAfrica IX Johannesburg
+37133,TIX Tanzania - Dar es Salaam
+37133,TIX Tanzania
+37136,BENIN-IX
+37154,NAPAfrica IX Johannesburg
+37154,LuIXP
+37223,MOZIX
+37292,BENIN-IX
+37303,MGIX
+37440,MIX-BT
+37453,KINIX
+37453,RDC-IX Kinshasa
+37453,GOMIX
+37453,LUBIX
+37916,JPNAP Tokyo
+38004,btIX
+38009,PNG Neutral IX Lae
+38009,PNG Neutral IX POM
+38513,EdgeNXT
+38714,VIC-IX
+38714,IX Australia (Brisbane QLD)
+38809,PIPE Networks Sydney
+38819,HKIX
+38826,ACT-IX
+38826,MegaIX Sydney
+38826,ACTIX
+38826,Equinix Sydney
+38924,B-IX
+38924,B-IX Balkans
+39010,Beirut IX
+39010,A.IX
+39072,Equinix Paris
+39072,France-IX Paris
+40015,Digital Realty New York
+40015,Any2 East
+40191,DE-CIX New York
+40191,NYIIX New York
+41164,NIX1
+41164,NIX
+41228,LIXP Vilnius
+41733,DATAIX
+41741,NIX2
+41741,NIX
+42031,PITER-IX Moscow
+42031,DATAIX
+42031,Eurasia Peering IX
+42525,DE-CIX Hamburg
+42525,DIX
+42532,PITER-IX Riga
+42532,PITER-IX St. Petersburg
+42579,LINX LON2
+42579,London Internet Exchange
+42579,LONAP
+42794,NetIX
+43097,RED-IX
+43097,KRS-IX
+43314,DATAIX
+43314,W-IX
+43338,LINX LON2
+43338,LINX LON1
+43561,BIX.BG
+43561,NetIX
+43561,DE-CIX Frankfurt
+43561,B-IX Balkans
+43824,Beirut IX
+44395,ArmIX
+44395,DE-CIX Frankfurt
+44631,PoIX
+44981,LINX LON1
+44981,London Internet Exchange
+44981,AMS-IX
+44981,Equinix Paris
+44981,DE-CIX Frankfurt
+45051,DATAIX
+45186,WA-IX
+45186,NSW-IX
+45186,GetaFIX Manila
+45269,VIC-IX
+45269,MegaIX Sydney
+45269,MegaIX Melbourne
+45269,PIPE Networks Melbourne
+45269,NSW-IX
+45269,WA-IX
+45269,IX Australia (Brisbane QLD)
+45345,CAN'L IX
+45347,Equinix Sydney
+45481,MegaIX Brisbane
+45481,PIPE Networks Brisbane
+45494,Equinix Singapore
+45494,SGIX
+46650,GREX
+46650,Grenada Internet Exchange
+47111,DATAIX
+47111,PIRIX
+47203,Crimea-IX
+47463,NDIX
+47813,NL-IX
+47900,DTEL-IX
+49465,1-IX UA
+49465,Giganet IXN
+49465,DTEL-IX
+49465,LL-IX
+49465,Giganet IXN Global Exchange
+49465,KS-IX
+49594,Equinix Paris
+49958,DE-CIX Frankfurt
+50204,Giganet IXN
+50204,UA-IX
+51038,France-IX AURA
+51369,PITER-IX Moscow
+51896,RIX
+51896,DE-CIX Frankfurt
+51947,SIX.SK
+52228,CRIX
+52228,Punto de Intercambio Neutro de Internet
+52233,AMS-IX Caribbean
+52233,Caribbean Internet Exchange
+52290,CABASE IXP Buenos Aires
+52290,AR-IX Cabase
+52481,AR-IX Cabase
+52481,CABASE IXP Pergamino
+52760,IX.br (PTT.br) Curitiba
+52760,PTT Curitiba
+52845,IX.br (PTT.br) Foz do Iguaçu
+52845,IX.br (PTT.br) Cascavel
+53164,IX.br (PTT.br) Salvador
+53164,PTT Salvador
+53948,Any2West
+54611,MASS-IX
+54890,BBIX US-West
+55567,Equinix Sydney
+55567,MegaIX Melbourne
+55567,MegaIX Sydney
+55836,NIXI Chennai
+55836,NIXI Mumbai
+55836,NIXI Delhi
+56055,CAN'L IX
+56462,W-IX
+56462,Eurasia Peering IX
+56663,Crimea-IX
+57202,FIXO
+57269,DE-CIX Barcelona
+57269,DE-CIX Madrid
+57388,ANIX
+57433,KleyReX
+57460,Mesh.IX
+57513,A.IX
+57513,Beirut IX
+58390,Super Internet eXchange (SIX)
+58408,EdgeIX - Perth
+58464,MegaIX Sydney
+58464,PIPE Networks Sydney
+58516,AMS-IX Hong Kong
+58666,AKL-IX (Auckland NZ)
+58666,MegaIX Auckland
+58666,APE
+58927,NSW-IX
+58940,NSW-IX
+58940,VIC-IX
+58940,IX Australia (Brisbane QLD)
+58940,WA-IX
+58989,WA-IX
+58989,MegaIX Sydney
+58989,MegaIX Melbourne
+58989,IX Australia WA
+59045,HKIX
+59150,IIX-Jakarta
+59150,JKT-IX
+59702,Netnod Copenhagen GREEN -- MTU9K
+59702,Netnod Copenhagen BLUE -- MTU9K
+59702,SONIX Stockholm
+59702,STHIX - Stockholm
+59702,STHIX - Gothenburg
+59702,Netnod Copenhagen GREEN
+59702,STHIX Stockholm
+59776,NL-ix
+59776,NL-IX
+60257,LONAP
+61444,PIT Santiago - PIT Chile
+62066,DATAIX
+62929,Boston Internet Exchange
+63920,MegaIX Brisbane
+63920,NSW-IX
+63920,MegaIX Melbourne
+63920,Equinix Sydney
+63920,WA-IX
+63920,MegaIX Sydney
+63971,MegaIX Sydney
+64015,MegaIX Melbourne
+64015,MegaIX Sydney
+64015,Equinix Sydney
+131677,TPIX-TW
+131926,BBIX Osaka
+131926,BBIX Tokyo
+132094,Equinix Sydney
+132330,NSW-IX
+132330,MegaIX Sydney
+132330,Equinix Sydney
+132330,WA-IX
+132347,AKL-IX (Auckland NZ)
+132347,MegaIX Auckland
+132347,APE
+132476,MegaIX Perth
+132476,MegaIX Melbourne
+132476,MegaIX Sydney
+132476,MegaIX Brisbane
+132476,VIC-IX
+132476,IX Australia (Brisbane QLD)
+132588,AKL-IX (Auckland NZ)
+132653,JKT-IX
+132653,OpenIXP / NiCE
+132653,IIX-Jakarta
+132669,CLOUDXCHANGE-CXC
+132669,JKT-IX
+132669,IIX-Jakarta
+132669,BIX Jakarta
+132895,NSW-IX
+132895,MegaIX Sydney
+132895,WA-IX
+133173,MegaIX Melbourne
+133173,MegaIX Sydney
+133217,EdgeIX - Adelaide
+133279,Extreme IX Delhi
+133382,MegaIX Sydney
+133422,MegaIX Singapore
+133456,STUIX
+133456,SGIX
+133548,MegaIX Sydney
+133548,NSW-IX
+133864,MegaIX Brisbane
+133918,MyIX
+133923,Nepal Internet Exchange - Putalisadak
+133923,npIX AWT
+134022,Extreme IX Mumbai
+134022,DE-CIX Mumbai
+134119,IX Australia WA
+134119,WA-IX
+134369,MegaIX Perth
+134369,EdgeIX - Perth
+134832,MegaIX Melbourne
+135043,npIX AWT
+135043,Nepal Internet Exchange - Putalisadak
+135227,NIXI Delhi
+135227,DE-CIX Mumbai
+135301,MegaIX Sydney
+135303,Nepal Internet Exchange - Putalisadak
+135396,MegaIX Brisbane
+135662,Equinix Melbourne
+135662,Equinix Sydney
+135726,Extreme IX Delhi
+135726,DE-CIX Mumbai
+135735,Extreme IX Mumbai
+135735,DE-CIX Mumbai
+136127,IIX-Jakarta
+136289,NIXI Mumbai
+136289,NIXI Kolkata
+136289,NIXI Delhi
+136373,Extreme IX Mumbai
+136373,DE-CIX Mumbai
+136398,MegaIX Sydney
+136784,NSW-IX
+136784,MegaIX Melbourne
+136784,MegaIX Brisbane
+136784,MegaIX Sydney
+136784,IX Australia (Brisbane QLD)
+136784,QLD-IX
+136784,VIC-IX
+136785,DE-CIX ASEAN
+136785,DE-CIX Malaysia
+136785,DE-CIX Johor Bahru
+137094,DE-CIX Mumbai
+137097,DE-CIX Hyderabad
+137097,NIXI Hyderabad
+137097,NIXI Mumbai
+137097,DE-CIX Mumbai
+137426,EdgeIX - Adelaide
+137562,MegaIX Sydney
+137681,Extreme IX Mumbai
+137896,MegaIX Sydney
+137996,GetaFIX Manila
+138139,OpenIXP / NiCE
+138139,JKT-IX
+138143,IIX-Bali
+138143,OpenIXP / NiCE
+138143,JKT-IX
+138143,CLOUDXCHANGE-CXC
+138143,C2IX
+138323,MegaIX Brisbane
+138516,Equinix Hong Kong
+138529,btIX
+138926,KleyReX
+139037,EdgeIX - Perth
+139049,VIC-IX
+139049,NSW-IX
+139049,IX Australia (Brisbane QLD)
+139214,MegaIX Sydney
+139244,IX Australia WA
+139244,WA-IX
+139357,MegaIX Adelaide
+139597,MegaIX Sydney
+139597,MegaIX Brisbane
+140446,IIX-Jakarta
+140446,JKT-IX
+140446,OpenIXP / NiCE
+140446,CLOUDXCHANGE-CXC
+140446,SGIX
+140892,SA-IX
+141134,IIX-Jakarta
+141134,JKT-IX
+141324,Extreme IX Mumbai
+141560,NIXI Kolkata
+141560,NIXI Mumbai
+141680,btIX
+141734,MegaIX Melbourne
+141734,EdgeIX - Melbourne
+141846,Extreme IX Mumbai
+141846,DE-CIX Mumbai
+141862,DE-CIX Mumbai
+142333,BertuahIX
+142369,IIX-Rimba-1
+142369,BertuahIX
+142369,IIX-Rimba-2
+142435,AMS-IX Bangkok
+147076,OpenIXP / NiCE
+147076,IIX-Jakarta
+147076,JKT-IX
+147150,JKT-IX
+147150,IIX-Jakarta
+147168,BBIX Singapore
+147168,JKT-IX
+149223,DE-CIX Mumbai
+149319,IIX-Jakarta
+149319,JKT-IX
+149319,CLOUDXCHANGE-CXC
+149368,OpenIXP / NiCE
+149368,BIX Jakarta
+149368,IIX-Jakarta
+149689,IIX-Jakarta
+149689,JKT-IX
+149903,OpenIXP / NiCE
+149903,IIX-Jakarta
+149903,JKT-IX
+149930,JKT-IX
+149930,OpenIXP / NiCE
+149930,BIX Jakarta
+149930,CLOUDXCHANGE-CXC
+149930,IIX-Jakarta
+149938,JKT-IX
+149938,OpenIXP / NiCE
+149938,CLOUDXCHANGE-CXC
+149938,Banyumas Internet Exchange
+149948,JKT-IX
+149971,JKT-IX
+150262,JKT-IX
+150262,IIX-Jakarta
+150466,OpenIXP / NiCE
+150466,SGIX
+150466,CLOUDXCHANGE-CXC
+150466,IIX-Jakarta
+150466,JKT-IX
+150526,IIX-Jakarta
+150526,JKT-IX
+150526,CLOUDXCHANGE-CXC
+150914,CENTRO-IX
+150927,JKT-IX
+150964,IIX-Jakarta
+150964,JKT-IX
+151377,BBIX Osaka
+151378,BBIX Tokyo
+197979,TPIX PL
+198455,DIX
+198477,GR-IX::Athens
+198616,W-IX
+198947,MSK-IX St. Petersburg
+199408,Equinix Amsterdam
+199408,NL-ix
+199408,NL-IX
+199408,AMS-IX
+199545,NorthIX
+199902,Netnod Sundsvall -- MTU1500
+199902,Netnod Sundsvall -- MTU4470
+199902,Netnod Sundsvall MTU1500
+200838,RED-IX
+201122,EPIX.Katowice
+201122,EPIX.Poznan
+201122,EPIX Warsaw
+201122,EPIX.Warszawa
+201825,DATAIX
+201987,CIX
+202112,GR-IX::Athens
+202112,Equinix Paris
+202306,SBIX Zurich
+202306,BFD-IX
+202306,4b42 Internet Exchange Point
+202306,Eurasia Peering IX
+202564,PoIX
+202583,DE-CIX Madrid
+203339,PITER-IX St. Petersburg
+203339,PITER-IX Moscow
+203806,Eurasia Peering IX
+204222,LINX LON2
+204222,LINX LON1
+204485,Giganet IXN Global Exchange
+205199,STHIX - Gothenburg
+205278,DATAIX
+205988,UAE-IX
+205988,DE-CIX Frankfurt
+206194,SIX.SK
+207050,NIXVAL-ix
+208296,TOP-IX
+209039,NL-ix
+209039,NL-IX
+212068,FIX Berlin
+212068,BCIX
+212068,LocIX Frankfurt
+212068,LOCIX Frankfurt
+212699,GR-IX::Athens
+215759,FogIXP
+215825,4b42 Internet Exchange Point
+262202,CRIX
+262202,Punto de Intercambio Neutro de Internet
+262213,PIT Santiago - PIT Chile
+262213,IX.br (PTT.br) São Paulo
+262213,PIT Chile
+262301,IX.br (PTT.br) São Paulo
+262534,IX.br (PTT.br) Rio de Janeiro
+262857,IX.br (PTT.br) Natal
+262857,PTT Natal
+263278,IX.br (PTT.br) São Paulo
+264471,IX.br (PTT.br) Cascavel
+264795,AR-IX Cabase
+264795,CABASE-COR
+265702,AR-IX Cabase
+265702,CABASE IXP Jujuy
+265795,AR-IX Cabase
+265795,CABASE-COR
+266058,IX.br (PTT.br) São Paulo
+267685,JumboIX Peru
+267685,PIT Bolivia
+268027,IX.br (PTT.br) Manaus
+268027,PTT Manaus
+268118,IX.br (PTT.br) Santa Maria
+269322,IX.br (PTT.br) Fortaleza
+269868,Azteca Telecom
+269924,CABASE-MZA
+269924,AR-IX Cabase
+269931,STIX.DO
+269931,DO-STIX
+269931,Azteca Telecom
+269968,AR-IX Cabase
+269968,CABASE-COR
+270082,PIT - Peru - Lima
+271354,IX.br (PTT.br) Belo Horizonte
+271354,PTT Belo Horizonte
+271819,Azteca Telecom
+271945,Azteca Telecom
+271945,STIX.DO
+271945,DO-STIX
+271968,STIX.DO
+271968,DO-STIX
+271968,Azteca Telecom
+271988,STIX.DO
+271988,Azteca Telecom
+271988,DO-STIX
+272149,Azteca Telecom
+272985,Azteca Telecom
+273070,Azteca Telecom
+327697,REUNIX
+327697,NAPAfrica IX Johannesburg
+327707,RINEX
+327707,TIX Tanzania - Dar es Salaam
+327708,NAPAfrica IX Johannesburg
+327708,LINX LON2
+327708,LINX LON1
+327796,GABIX
+327922,NAPAfrica IX Johannesburg
+327922,DINX
+327962,NAPAfrica IX Durban
+327962,TIX Tanzania - Dar es Salaam
+327962,JINX
+327962,NAPAfrica IX Cape Town
+327962,NAPAfrica IX Johannesburg
+328164,NAPAfrica IX Johannesburg
+328222,NAPAfrica IX Johannesburg
+328237,CINX
+328237,TIX Tanzania - Dar es Salaam
+328237,NAPAfrica MAPS Johannesburg
+328237,NAPAfrica IX Cape Town
+328237,NAPAfrica IX Johannesburg
+328253,MLIX
+328422,NAPAfrica IX Johannesburg
+328575,NAPAfrica IX Cape Town
+328575,TIX Tanzania - Dar es Salaam
+328575,NAPAfrica IX Johannesburg
+328763,NAPAfrica IX Johannesburg
+328970,NAPAfrica IX Cape Town
+328970,NAPAfrica IX Johannesburg
+329006,NAPAfrica IX Johannesburg
+329035,NAPAfrica IX Johannesburg
+329035,TIX Tanzania - Dar es Salaam
+329035,NAPAfrica IX Cape Town
+329035,JINX
+329058,NAPAfrica IX Cape Town
+329058,NAPAfrica IX Johannesburg
+329062,NAPAfrica IX Cape Town
+329062,TIX Tanzania - Dar es Salaam
+329157,Asteroid Mombasa
+394056,Any2Denver
+394387,DE-CIX Richmond
+394979,DE-CIX Richmond
+395570,Equinix Chicago
+395570,TorIX
+395916,SXMIX
+396219,DE-CIX New York
+396219,DE-CIX Richmond
+397116,MASS-IX
+397156,DE-CIX Richmond
+397156,DE-CIX New York
+400442,MBIX
+400442,NL-IX
+400442,LocIX Frankfurt
+400442,LOCIX Frankfurt
+400442,FogIXP
